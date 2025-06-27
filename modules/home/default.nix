@@ -12,7 +12,7 @@
     ./btop.nix # resouces monitor
     ./cava.nix # audio visualizer
     ./discord/discord.nix # discord with gruvbox
-    ./fastfetch.nix # fetch tool
+    #./fastfetch.nix # fetch tool
     ./flow.nix # terminal text editor
     ./fzf.nix # fuzzy finder
     ./gaming.nix # packages related to gaming
