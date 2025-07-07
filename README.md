@@ -95,8 +95,8 @@ Update your git information in `./modules/home/git.nix`:
 ```nix
 programs.git = {
   # ...
-  userName = "your-username";
-  userEmail = "your-email@example.com";
+  userName = "kaaris-270";
+  userEmail = "43emeBIMA@example.com";
   # ...
 };
 ```
