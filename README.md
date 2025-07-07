@@ -25,7 +25,6 @@
 - 🖼️ **Dynamic wallpaper system** with built-in wallpaper picker
 - 🎯 **Optimized for both desktop and laptop** configurations
 - 🏠 **Home Manager integration** for declarative user environment
-- 🎨 **Aseprite support** with custom themes (optional)
 - 📦 **Flake-based configuration** for reproducible builds
 - 🔒 **Hyprlock** for secure screen locking
 
@@ -83,8 +82,6 @@ After rebooting, you'll be greeted by hyprlock. Enter your password to access yo
 
 Even with Home Manager, some manual configuration is required:
 
-#### 🎨 Aseprite Themes
-Set your preferred Aseprite theme from `./nixos-config/modules/home/aseprite/themes/`
 
 #### 🌐 Browser Configuration
 Configure your browser settings manually (automated configuration coming soon)
@@ -127,10 +124,7 @@ Choose between:
 - **Laptop** configuration
 - **VM** configuration (experimental)
 
-### 6. 🎨 Aseprite Installation
-Optional Aseprite installation (requires compiling 1100+ C++ files - time-intensive)
-
-### 7. 🔨 System Build
+### 6. 🔨 System Build
 Builds the complete system with flake and Home Manager configurations
 
 ## 🎯 System Requirements
